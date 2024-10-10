@@ -1,0 +1,34 @@
+# Ignore o ambiente virtual criado pelo Poetry
+.api-bancaria-py3.12/
+
+# Ignore os arquivos do banco de dados
+test.db
+
+# Ignore arquivos de cache do Python
+__pycache__/
+*.py[cod]
+
+# Ignore arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Ignore arquivos de log
+*.log
+
+# Ignore arquivos de configuração do IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore arquivos de ambiente
+.env
+
+# Ignore pastas de dependências do Poetry
+*.egg-info/
+dist/
+build/
+
+# Permitir arquivos de imagem
+!*.PNG
+!*.JPG
