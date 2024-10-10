@@ -155,8 +155,8 @@ Este projeto está licenciado sob a MIT License - consulte o arquivo LICENSE par
 
 ## 15. Versão do Pip
 
-![Versão do Pip](images/Versao_Pip.PNG)
+![Versão do Pip](images/Versao_Pipx.PNG)
 
 ## 16. Versões do Python e Pip
 
-![Versões Python e Pip](images/Versoes_Python_e_Pip.PNG)
+![Versões Python e Pip](images/Versoes_Python_Pip.PNG)
